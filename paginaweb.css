@@ -1,0 +1,97 @@
+body{
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://viajareapanama.com/wp-content/uploads/2020/06/veraguas.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.logo{
+ height: 50%;
+ width: 5%;
+ margin-left: 0.5cm;
+ margin-top: 0.7cm;
+ border-radius: 50%;
+ 
+}
+
+.menu{
+    background-color: rgb(172, 175, 173); 
+    opacity: .8;
+   margin-left: -1em;
+   margin-top: -2em;
+   margin-bottom:-1em ;
+   margin-right:-1em ;
+   height: 105px;
+  
+
+
+}
+
+a:link{
+    color:white;
+    
+
+}
+.menu-container{
+margin-top: 1em;
+}
+
+
+h1 {
+    font-family: "Vidaloka";
+    font-size: 60px;
+    text-align: "center";
+}
+
+
+li {
+    float: left;
+}
+
+ul{ 
+    display: flex ;
+    justify-content: center;
+    justify-content: space-evenly;
+    list-style: none;
+    margin: 0 0 1rem;
+    align-items: start;
+    margin-top: -3rem;
+    
+}
+
+a.homeActivo{
+color: #e77d1e;
+}
+
+.frase{
+    color: white;
+    height: 30rem;
+    width: 46rem;
+    margin-top: 4rem;
+   font-size: 540%;
+   line-height: 3cm;
+
+}
+
+.dropdown{
+ align-items: inline-block;
+ position: relative;
+}
+
+.rectangulo{
+    width: 250px;
+    height: 100px;
+    background-color: #305316;
+}
+
+#promo1{
+    height: 0px;
+    width: 0px;
+    
+}
+
+.promo1{
+    width: 10%;
+    height: 10%;
+    margin-left: 71rem;
+}
